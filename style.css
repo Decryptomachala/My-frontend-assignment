@@ -1,0 +1,25 @@
+.coke {
+    background-color: #008000;
+    border: 3px solid;
+    border-radius: 1rem;
+    padding: 10rem 10rem 5rem 10rem;
+   width:26rem;
+   margin: 2rem 0rem 0rem 0rem;
+}
+
+.pepsi {
+    background-color: #ffffff;
+    border: 5px solid;
+    border-radius: 50rem 50rem 50rem 50rem;
+    width: 15rem;
+    height: 15rem;
+    padding: 3rem 3rem 6rem 6rem;
+}
+div {
+    padding: 0rem 0rem 10rem 3rem;
+    margin: -4rem 0rem 0rem 0rem;
+}
+h1 {
+    font-size: 170px;
+    color: #b8860b;
+}
